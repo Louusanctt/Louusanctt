@@ -16,3 +16,11 @@
   <a href="https://www.instagram.com/lousanct.drawstuff/?hl=en">insta</a>
 </p>
 
+## about me
+<p align="center">
+૮₍ ˃ ⤙ ˂ ₎ა  
+</p>
+
+<p align="center">
+𝒞 heck me out! ⩇
+</p>
