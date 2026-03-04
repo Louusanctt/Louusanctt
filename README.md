@@ -15,8 +15,9 @@
   <a href="https://shuohublade.straw.page/">strawpage</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/lousanct.drawstuff/?hl=en">insta</a>
 </p>
-
-## about me
+<p align="center">
+## 𓎢   𓎟   𓎡
+</p>
 <p align="center">
 ૮₍ ˃ ⤙ ˂ ₎ა  
 </p>
