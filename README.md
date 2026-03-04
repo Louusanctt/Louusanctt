@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  ## ✦ welcome to my profile ✦
+  <strong>✦ Welcome to my profile ✦</strong>
 </p>
 <p align="center">
 ૮₍ ˃ ⤙ ˂ ₎ა  
