@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/lousanct.drawstuff/?hl=en">insta</a>
 </p>
 <p align="center">
-##𓎢   𓎟   𓎡
+##hey!
 </p>
 <p align="center">
 ૮₍ ˃ ⤙ ˂ ₎ა  
