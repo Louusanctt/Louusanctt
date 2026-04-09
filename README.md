@@ -1,6 +1,6 @@
 <p align="center">
 <p align="center">
-<img src="[YOUR_IMAGE_URL](https://i.imgur.com/CkY9sP1.png)" width="800" />
+<img src="https://i.imgur.com/CkY9sP1.png" width="800" />
 
 <p align="center">
 ✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀
