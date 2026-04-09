@@ -1,6 +1,6 @@
 <p align="center">
 <p align="center">
-<img src="[https://i.imgur.com/CkY9sP1.png" width=](https://media.discordapp.net/attachments/1418934691595288718/1491894856316879041/61.png?ex="300" />
+<img src="[YOUR_IMAGE_URL](https://i.imgur.com/CkY9sP1.png)" width="800" />
 
 <p align="center">
 ✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀
