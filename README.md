@@ -1,6 +1,5 @@
 <p align="center">
-![My Image](https://media.discordapp.net/attachments/1418934691595288718/1481769737867231263/61.jpeg)
-<br>
+<img src="https://media.discordapp.net/attachments/1418934691595288718/1481769737867231263/61.jpeg" width="300"><br>
 
 <p align="center">
 ✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀✦⠀
